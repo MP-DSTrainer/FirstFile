@@ -1,2 +1,1 @@
-def sum(a,b):
-    print('hi')
+print('hello')
